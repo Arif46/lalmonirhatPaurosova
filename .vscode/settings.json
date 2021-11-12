@@ -1,0 +1,10 @@
+{
+  "i18n-ally.localesPaths": [
+    "resources/lang",
+    "public/back/plugins/fullcalendar/locales",
+    "public/back/plugins/jsgrid/i18n",
+    "public/back/plugins/moment/locale",
+    "public/back/plugins/summernote/lang",
+    "public/back/plugins/select2/js/i18n"
+  ]
+}
